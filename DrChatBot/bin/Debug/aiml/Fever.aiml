@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+  <category>
+    <pattern>What is fever</pattern>
+    <template>
+      A fever, or pyrexia, is a rise in internal body temperature to levels that are considered to be above normal. Average body temperature is about 98.6°F or 37°C, and temperatures above 100.4°F or 38°C are generally considered to be febrile.
+    </template>
+  </category>
+
+  <category>
+    <pattern>I have fever</pattern>
+    <template>
+      You should take care if you have fever.
+    </template>
+  </category>
+</aiml>
+
+

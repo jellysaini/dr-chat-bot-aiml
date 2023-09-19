@@ -1,0 +1,5 @@
+E:\Projects\DrChatBot\DrChatBot\DrChatBot\bin\Debug\DrChatBot.exe
+E:\Projects\DrChatBot\DrChatBot\DrChatBot\bin\Debug\DrChatBot.pdb
+E:\Projects\DrChatBot\DrChatBot\DrChatBot\obj\x86\Debug\DrChatBot.exe
+E:\Projects\DrChatBot\DrChatBot\DrChatBot\obj\x86\Debug\DrChatBot.pdb
+E:\Projects\DrChatBot\DrChatBot\DrChatBot\obj\x86\Debug\DrChatBot.csprojResolveAssemblyReference.cache
